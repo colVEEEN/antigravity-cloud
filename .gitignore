@@ -1,0 +1,10 @@
+node_modules/
+memory/
+.openclaw/
+*.bak
+config/
+plans/
+scripts/
+skills/
+tasks/
+*.md
